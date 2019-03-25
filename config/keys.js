@@ -1,5 +1,5 @@
 module.exports = {
   mongoURI:
-    'mongodb+srv://klisfer:klisfer@devconnect-fd1rb.mongodb.net/devconnector?retryWrites=true',
-  secretOrKey: 'secret'
+    "mongodb+srv://klisfer:klisfer@devconnect-fd1rb.mongodb.net/devconnector?retryWrites=true",
+  secretOrKey: "secret"
 };
